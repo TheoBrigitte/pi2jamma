@@ -1,0 +1,8 @@
+# GUI
+System Preferences > Sharing
+
+[x] Internet Sharing | Share your connection from "Wi-Fi", To computer using "Thunderbolt Ethernet"
+
+# launchctl
+sudo /bin/launchctl load -w /System/Library/LaunchDaemons/bootps.plist
+sudo /bin/launchctl unload -w /System/Library/LaunchDaemons/bootps.plist

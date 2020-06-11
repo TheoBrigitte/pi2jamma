@@ -1,0 +1,14 @@
+disable_overscan=1
+hdmi_ignore_edid=0xa5000080
+hdmi_pixel_encoding=2
+hdmi_force_hotplug=1
+hdmi_cvt=320 240 60 1 0 0 0
+hdmi_group=2
+hdmi_mode=87
+DISABLE_SPLASH=1
+config_hdmi_boost=4
+dtparam=audio=on
+gpu_mem_256=128
+gpu_mem_512=256
+gpu_mem_1024=256
+overscan_scale=1

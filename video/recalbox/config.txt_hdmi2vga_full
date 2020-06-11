@@ -1,0 +1,23 @@
+DISABLE_SPLASH=1
+avoid_safe_mode=1
+boot_delay=3
+cec_osd_name=recalbox
+config_hdmi_boost=0
+config_hdmi_boost=4
+disable_overscan=1
+disable_splash=1
+dtparam=audio=on
+enable_uart=1
+gpu_mem_1024=256
+gpu_mem_1024=448
+gpu_mem_256=128
+gpu_mem_512=256
+hdmi_cvt=320 240 60 1 0 0 0
+hdmi_force_hotplug=1
+hdmi_group=2
+hdmi_ignore_edid=0xa5000080
+hdmi_mode=87
+hdmi_pixel_encoding=2
+kernel=zImage
+overscan_scale=1
+temp_soft_limit=70
